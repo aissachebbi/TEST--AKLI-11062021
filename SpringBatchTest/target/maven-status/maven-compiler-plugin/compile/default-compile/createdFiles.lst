@@ -1,0 +1,12 @@
+com\TestAkli\springbatch\controller\StudentController.class
+com\TestAkli\springbatch\model\Person$PersonBuilder.class
+com\TestAkli\springbatch\model\Person.class
+com\TestAkli\springbatch\service\impl\PersonService.class
+com\TestAkli\springbatch\SpringBatchExampleApplication.class
+com\TestAkli\springbatch\batch\PersonWriter.class
+com\TestAkli\springbatch\config\BatchConfig.class
+com\TestAkli\springbatch\service\IPersonService.class
+com\TestAkli\springbatch\repository\IPersonRepository.class
+com\TestAkli\springbatch\model\PersonFieldSetMapper.class
+com\TestAkli\springbatch\BatchLauncher.class
+com\TestAkli\springbatch\batch\PersonProcessor.class

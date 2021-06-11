@@ -1,0 +1,11 @@
+C:\Users\amalaoui.OMNILOG\Documents\Workspace-java\SpringBatchTest\src\main\java\com\TestAkli\springbatch\controller\StudentController.java
+C:\Users\amalaoui.OMNILOG\Documents\Workspace-java\SpringBatchTest\src\main\java\com\TestAkli\springbatch\BatchLauncher.java
+C:\Users\amalaoui.OMNILOG\Documents\Workspace-java\SpringBatchTest\src\main\java\com\TestAkli\springbatch\batch\PersonProcessor.java
+C:\Users\amalaoui.OMNILOG\Documents\Workspace-java\SpringBatchTest\src\main\java\com\TestAkli\springbatch\batch\PersonWriter.java
+C:\Users\amalaoui.OMNILOG\Documents\Workspace-java\SpringBatchTest\src\main\java\com\TestAkli\springbatch\model\Person.java
+C:\Users\amalaoui.OMNILOG\Documents\Workspace-java\SpringBatchTest\src\main\java\com\TestAkli\springbatch\service\IPersonService.java
+C:\Users\amalaoui.OMNILOG\Documents\Workspace-java\SpringBatchTest\src\main\java\com\TestAkli\springbatch\repository\IPersonRepository.java
+C:\Users\amalaoui.OMNILOG\Documents\Workspace-java\SpringBatchTest\src\main\java\com\TestAkli\springbatch\SpringBatchExampleApplication.java
+C:\Users\amalaoui.OMNILOG\Documents\Workspace-java\SpringBatchTest\src\main\java\com\TestAkli\springbatch\service\impl\PersonService.java
+C:\Users\amalaoui.OMNILOG\Documents\Workspace-java\SpringBatchTest\src\main\java\com\TestAkli\springbatch\config\BatchConfig.java
+C:\Users\amalaoui.OMNILOG\Documents\Workspace-java\SpringBatchTest\src\main\java\com\TestAkli\springbatch\model\PersonFieldSetMapper.java
